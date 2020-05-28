@@ -7,11 +7,12 @@
  
 ## Como rodar o projeto
 * Clone esse repositório.
-* Vá até a pasta Fruteira
+* Vá até a pasta Sistema-Vendas-Graficos
 * Crie um virtualenv com Python 3.
 * Ative o virtualenv.
 * Instale todas dependências do arquivo requirements.txt
-* Rode o script main.py
+* Entre na pasta Fruteira
+* Execute o script main.py
 
 ## Comandos
 * git clone https://github.com/fabriciocovalesci/Sistema-Vendas-Graficos.git
