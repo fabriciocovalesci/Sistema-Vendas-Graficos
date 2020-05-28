@@ -22,6 +22,23 @@
 * python3 main.py
 
 
+## Demostração do sistema
+
+* **Relação Produtos X Valores**
+
+![grafico_barras](https://user-images.githubusercontent.com/40548641/83092898-b9ad1500-a074-11ea-94fb-9a3441d6d113.png)
+
+
+* **Percentual do Estoque**
+
+![grafico_pizza](https://user-images.githubusercontent.com/40548641/83092895-b6198e00-a074-11ea-9196-c3bd64693196.png)
+
+
+* **Gráfico de Vendas**
+
+![grafico_barras_2](https://user-images.githubusercontent.com/40548641/83092904-bd409c00-a074-11ea-8f6e-c973591b93fb.png)
+
+
 ### Pacote Anaconda necessário
 https://www.anaconda.com/distribution/
 
