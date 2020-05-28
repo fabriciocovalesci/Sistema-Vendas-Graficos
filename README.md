@@ -1,4 +1,7 @@
-# Sistema de gestão Fruteira
+
+<div align="center">
+  <h1 style="color:#1F89C6;padding:20px;">Sistema de gestão Fruteira</h1> 
+</div>
 
  Sistema de cadastro, venda, visualização por meio de gráficos de pizza e de barras, feitos com a biblioteca matplotlib, também foi utilizados as bibliotecas pandas e numpy.
  
