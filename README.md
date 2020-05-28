@@ -15,10 +15,11 @@
 
 ## Comandos
 * git clone https://github.com/fabriciocovalesci/Sistema-Vendas-Graficos.git
-* cd Fruteira
+* cd Sistema-Vendas-Graficos
 * python3 -m venv .venv
 * source .venv/bin/activate
 * pip install -r requirements.txt
+* cd Fruteira
 * python3 main.py
 
 
